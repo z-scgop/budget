@@ -10,8 +10,8 @@ appear and be heard. The Commissioners meet on the second floor of the Sheridan 
 Sheridan, Wyoming. A summary of the proposed budget follows.
 
 ## Interests
-### [SAWS Budget](2023-07-05a.pdf)
+### [SAWS Budget](docs/2023-07-05a.pdf)
 #### additional documentation
-##### [Budget Public Hearing Notice](Sheridan County FY24 Budget_Public Hearing Notice.pdf)
-##### [Conty 22-23 buget](SHERIDAN_COUNTY_FY23.pdf)
-##### [Conty 21-22 buget](SHERIDAN-COUNTY-FY22-BUDGET.pdf)
+##### [Budget Public Hearing Notice](docs/Sheridan_County_FY24_Budget_Public_Hearing_Notice.pdf)
+##### [Conty 22-23 buget](docs/SHERIDAN_COUNTY_FY23.pdf)
+##### [Conty 21-22 buget](docs/SHERIDAN-COUNTY-FY22-BUDGET.pdf)
