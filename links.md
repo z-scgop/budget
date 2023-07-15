@@ -5,4 +5,5 @@
 -  [Bridger View](https://bridgerview.org/about-us/)
 -  [Sheridan County GIS](https://maps.greenwoodmap.com/sheridan/map#zcr=3/11907500/5585000/0&lyrs=precincts,water,corplimits,roads,ownership)
 -  [Sheridan County Planning](https://www.sheridancountywy.gov/departments/planning/index.php)
+-  [Sheridan Press July 5th, 2023 B05 - Proposed Budget: Sheridan Area Water Supply Joint Powers Board](https://www.thesheridanpress.com/eedition/page-b05/page_9e878e73-f918-54ef-9299-3b21f2a1fd27.html)
 -  [blank](https://)
