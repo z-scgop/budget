@@ -3,3 +3,6 @@
 -  [WY Treasurer - Investments](https://statetreasurer.wyo.gov/investments/)
 -  [Headwaters Community Housing Trust](https://headwatershousing.org/)
 -  [Bridger View](https://bridgerview.org/about-us/)
+-  [Sheridan County GIS](https://maps.greenwoodmap.com/sheridan/map#zcr=3/11907500/5585000/0&lyrs=precincts,water,corplimits,roads,ownership)
+-  [Sheridan County Planning](https://www.sheridancountywy.gov/departments/planning/index.php)
+-  [blank](https://)
