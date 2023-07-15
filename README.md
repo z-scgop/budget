@@ -8,3 +8,6 @@ July 18, 2023, the Board of County Commissioners shall adopt the FY24 Sheridan C
 invited to attend the public hearings on the proposed County budget, at which time all interested persons may
 appear and be heard. The Commissioners meet on the second floor of the Sheridan County Courthouse Addition,
 Sheridan, Wyoming. A summary of the proposed budget follows.
+
+## Interests
+### [SAWS Budget](2023-07-05a.pdf)
